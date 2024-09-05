@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 const NetworkingHub = () => {
   const [searchTerm, setSearchTerm] = useState('');
+  // eslint-disable-next-line no-unused-vars
   const [searchResults, setSearchResults] = useState([]);
 
   const handleSearch = (event) => {
