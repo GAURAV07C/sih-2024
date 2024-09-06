@@ -1,0 +1,36 @@
+.mySlides {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+  float: left;
+  height: 600px;
+  width: 100%;
+  background-size: contain;
+  object-fit: cover;
+  display: block;
+  width: 100%;
+  height: auto-fill;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(165, 146, 249);
+  text-align: center;
+  padding: 10px;
+  border-radius: 8px; /* Optional: rounded corners */
+}
+
+.overlay-text {
+  margin: 0;
+  font-size: 24px; /* Adjust as needed */
+  font-weight: bold;
+}

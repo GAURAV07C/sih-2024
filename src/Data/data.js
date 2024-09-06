@@ -1,13 +1,35 @@
 
 
 
+export const SlideImage = [
+  {
+    id:1,
+    image:"../assets/images/alumani.jpeg"
+  },
+  {
+    id:2,
+    image:"../assets/images/tifc.jpeg"
+  },
+  {
+    id:3,
+    image:"../assets/images/clg.jpeg"
+  },
+
+];
+
 
 export const SuccesStories = [
+   {
+    id:1,
+    image:"../assets/images/alumani.jpeg"
+  },
   {
-    name: "John Doe",
-    review:
-      "Exceptional service! The team delivered exactly what we needed on time. Very professional",
-    image: "../assets/images/logo192.png",
+    id:2,
+    image:"../assets/images/tifc.jpeg"
+  },
+  {
+    id:3,
+    image:"../assets/images/clg.jpeg"
   },
 
 ];
