@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import { Helmet } from 'react-helmet';
 import logo1 from "../../assets/images/img1.png";

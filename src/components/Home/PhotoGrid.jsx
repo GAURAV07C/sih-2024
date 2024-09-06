@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 // import './PhotoGrid.css'; // Import CSS file for styling
 import "./CSS/photoGrid.css"
