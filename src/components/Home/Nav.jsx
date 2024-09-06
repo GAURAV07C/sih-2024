@@ -46,16 +46,13 @@ const Nav = () => {
 
            <div>
            <ul>
-            <a href="/login">.
-
-            </a>
               <button
                 className="login_button"
               >
                 Login
               </button>
 
-              <a href="">
+              <a href="/register">
               <button
                 className="signup_button"
               >
